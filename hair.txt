@@ -1,0 +1,1 @@
+<wildcard:Waifus/hair_styles>, <wildcard:Waifus/hair_lengths>, <wildcard:Waifus/colors> hair,

@@ -1,0 +1,38 @@
+<wildcard:Waifus/colors> footwear
+<wildcard:Waifus/colors> footwear, boots
+<wildcard:Waifus/colors> footwear, high heels
+<wildcard:Waifus/colors> footwear, sandals
+<wildcard:Waifus/colors> footwear, sneakers
+<wildcard:Waifus/colors> socks
+<wildcard:Waifus/colors> footwear, socks
+cross-laced footwear
+toeless footwear
+<random:asymmetrical|mismatched> footwear
+bow footwear
+rudder footwear
+pointy footwear
+winged footwear
+socks, no shoes
+ankle socks
+striped socks
+loose socks
+bobby socks
+kneehighs
+thighhighs
+shoes
+footwear
+sneakers
+dress shoes
+leather shoes
+monk strap
+high heels
+stiletto heels
+thigh high boots
+knee high boots
+short boots
+platform footwear, shoes
+platform footwear, sandals
+slippers
+sandals
+socks, sandals
+barefoot

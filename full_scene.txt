@@ -1,0 +1,1 @@
+<wildcard:Waifus/composition>,<wildcard:Waifus/locations>,<wildcard:Waifus/time>,<wildcard:Waifus/poses>,<wildcard:Waifus/faces>

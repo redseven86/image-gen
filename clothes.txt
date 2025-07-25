@@ -1,0 +1,1 @@
+<random:<wildcard:Waifus/costumes>|<wildcard:Waifus/tops>>,<wildcard:Waifus/bottoms>,<wildcard:Waifus/accessories>,<wildcard:Waifus/accessories>,<wildcard:Waifus/shoes>

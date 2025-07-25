@@ -1,0 +1,1 @@
+<wildcard:Waifus/colors> hair, <wildcard:Waifus/hair>,<wildcard:Waifus/colors> eyes, <wildcard:Waifus/body>,<wildcard:Waifus/breasts>

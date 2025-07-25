@@ -1,0 +1,48 @@
+<wildcard:Waifus/colors> blouse
+<wildcard:Waifus/colors> hoodie
+<wildcard:Waifus/colors> vest
+<wildcard:Waifus/colors> t-shirt
+<wildcard:Waifus/colors> shirt
+<wildcard:Waifus/colors> sailor collar, neck ribbon
+<wildcard:Waifus/colors> sweater
+collared shirt
+collared shirt, <wildcard:Waifus/colors> necktie
+shirt, bare shoulders
+animal hoodie
+tube top
+camisole
+camisole, strap slip
+strapless
+short sleeves
+sleeveless
+wide sleeves, frilled shirt
+off-shoulder sweater
+sweater, <random:heart|cat> cutout
+clothing cutout
+<random:cleavage|underboob|navel> cutout
+<random:hip|shoulder> cutout
+<random:sideboob|underboob|boob> window
+<random:midriff|navel>
+necktie
+turtleneck
+halterneck
+crop top
+corset
+striped shirt, vertical stripes
+striped shirt, horizontal stripes
+polo shirt
+see-through shirt
+jacket
+track jacket
+fur-trimmed jacket
+leather jacket
+pompom
+apron
+sports bra
+coat
+fur coat
+cape
+capelet
+jumper
+blazer
+poncho

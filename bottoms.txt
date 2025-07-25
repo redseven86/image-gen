@@ -1,0 +1,19 @@
+<wildcard:Waifus/colors> skirt
+<wildcard:Waifus/colors> shorts
+<wildcard:Waifus/colors> shorts, short shorts
+<wildcard:Waifus/colors> pants
+<wildcard:Waifus/colors> panties
+long skirt
+miniskirt
+layered skirt
+pleated skirt
+high-waist skirt
+sweatpants
+striped pants
+hotpants
+leather pants
+pom-pom pants
+jeans
+short shorts, thigh strap
+denim shorts
+bellbottoms
